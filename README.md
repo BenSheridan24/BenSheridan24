@@ -1,5 +1,9 @@
 ### Hello! My name is Ben Sheridan. I am currently a Senior here at the University of Iowa studying Business Analytics and Sports and Recreation Management. 
 
+I am currently working on... my Digital Product Management final project. For this project, we had to create a unique website portfolio about ourself. I have been able to learn a lot through this class, and can't build on it in the future.
+
+I'm looking to collaborate on... any projects that are involved with sports because I have a great passion for sports. 
+
 <!--
 **BenSheridan24/BenSheridan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
