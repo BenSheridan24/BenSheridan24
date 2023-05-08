@@ -4,6 +4,8 @@ I am currently working on... my Digital Product Management final project. For th
 
 I'm looking to collaborate on... any projects that are involved with sports because I have a great passion for sports. 
 
+In the future I want to... coach at the High School level. While this may seem random, I have grown up playing sports and many coaches at the High School level are teachers and I want to have a diverse background of knowledge.
+
 <!--
 **BenSheridan24/BenSheridan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
