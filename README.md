@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! My name is Ben Sheridan. I am currently a Senior here at the University of Iowa studying Business Analytics and Sports and Recreation Management. 
 
 <!--
 **BenSheridan24/BenSheridan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
